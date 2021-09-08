@@ -1,5 +1,5 @@
 # ansible-playbooks
-Wonna be Ansible playbook for setting up machines. Currently its just a list of commands an instructions to setup my VM.
+Wonna be Ansible playbook for setting up dev-vm. Currently its just a list of commands and instructions to setup my VM.
 
 # setup my dev VM
 Note: replace `{user}` with the new user name in the VM.
